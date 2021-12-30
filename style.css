@@ -1,0 +1,14 @@
+body {
+    background-color:mediumaquamarine;
+    margin-top: 5em;
+    align-items: center;
+    text-align: center;
+    color:snow;
+    justify-content: space-evenly;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+.poke-list {
+    color:snow;
+    text-align: center;
+}
